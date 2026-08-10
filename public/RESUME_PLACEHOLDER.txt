@@ -1,0 +1,6 @@
+Put your actual resume file here as:
+
+  public/resume.pdf
+
+The "Download Resume" button in the hero and contact sections links to /resume.pdf.
+Once you add the real file at that path, delete this placeholder text file.
